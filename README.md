@@ -5,5 +5,5 @@ With this simple tool you can always keep track whats on your todo-list.
 
 At this point the tool is only available in german, but since this is a repository, you have everything you need to modify it yourself.
 
-##Installation
+## Installation
 Either download and execute the .exe file or modify and compile it yourself. Good Luck! :)
